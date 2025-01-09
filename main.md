@@ -2,13 +2,13 @@
 
 ## UF et flux de référence
 
-> <u>Unité fonctionnelle choisie</u>
->	Ecrire et stocker des données sur 10 m² de papier dans de bonnes conditions selon un usage adapté
+<u>Unité fonctionnelle choisie</u>
+	Ecrire et stocker des données sur 10 m² de papier dans de bonnes conditions selon un usage adapté
 
-> <u>Flux de référence</u>  
-> 	Surface disponible
-> 	Aptitude à l'écriture
-> 	Résistance dans le temps
+ <u>Flux de référence</u>  
+ 	Surface disponible
+ 	Aptitude à l'écriture
+ 	Résistance dans le temps
 
 #### Surface
 
@@ -64,7 +64,7 @@ Chaque cahier parcours donc environ 414 km.
 
 ## ACV d'un cahier
 
-Masse d'un cahier : $\frac{61799+3536+1321+253+418+104+1883}{105000*2.35} \approx 0.28 \ \text{kg}$
+Masse d'un cahier : $\frac{61799+3536+1321+253+418+104+1883}{105000} \approx 0.65 \ \text{kg}$
 
 ### Hypothèses
 
@@ -91,7 +91,6 @@ Masse d'un cahier : $\frac{61799+3536+1321+253+418+104+1883}{105000*2.35} \appro
 
 
 On obtient un impact final de **34,5 mPt/cahier** soit **57,5 mPt/kg**. Ce résultat nous paraît cohérent avec les moyennes que nous trouvé pour un cahier. Les indicateurs les plus touchés sont les radiations ionisantes, l'épuisement des ressources énergétiques et le changement climatique (CO2).
-Avec ces résultats, on trouve qu'il suffit de 29 cahiers pour dépasser l'impact environnemental d'un européen sur un an. 
 ### Étude de sensibilité
 
 1) Kilométrage
@@ -109,3 +108,7 @@ On cherche maintenant à savoir si cette valeur est sensible au type d'attache u
 Le flux de référence n'est pas modifié car les agrafes et la spirale ont le même nombre de points dans le tableau des critères de notation.
 
 On obtient un impact de **32,8 mPt/cahier** soit une diminution de 5% ce qui n'est plus négligeable, d'autant que c'est une diminution. 
+
+# Conclusion
+
+Dans cette étude, nous avons pu étudier l'impact environnemental d'un cahier. Nous avons pu déterminer que celui influence principalement les **radiations ionisantes**, l'**épuisement des ressources énergétiques** et le **changement climatique**, par sa <u>fabrication</u> plus que par sa distribution. Le score trouvé est assez élevé, il suffit en effet de ***29*** cahiers pour dépasser l'impact environnemental d'un européen sur un an, d'où l'intérêt d'imprimer les feuilles d'examen en recto-verso ;) .
